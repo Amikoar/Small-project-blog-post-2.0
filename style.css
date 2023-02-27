@@ -115,3 +115,21 @@ a:active {
   background-color: #1098ad;
   font-style: italic;
 }
+
+/* Resolving coflicts */
+
+/* #copyright {
+  color: red;
+}
+
+.copyright {
+  color: blue;
+}
+
+.text {
+  color: yellow;
+}
+
+footer p {
+  color: green !important;
+} */
